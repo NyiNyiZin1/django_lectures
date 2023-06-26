@@ -5,3 +5,4 @@
     *t = Topic(top_name="Social Network")
     *t.save()
 # python manage.py createsuperuser
+model > admin > app > setting
