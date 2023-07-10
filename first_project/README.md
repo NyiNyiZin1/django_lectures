@@ -6,3 +6,8 @@
     *t.save()
 # python manage.py createsuperuser
 model > admin > app > setting
+
+# Note
+1. First Project
+2. UI html flow
+3. Foreingn key
